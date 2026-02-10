@@ -1,1 +1,5 @@
-In this task 1 we have build a page "portfolio" uses simple html tags and with css design in this page  there are multiple pages like home services etc at the top of web page 
+# Lab 02 - HTML & CSS
+This repository contains three tasks completed for Lab 02 using HTML and external CSS files.
+Task 1 : Personal portfolio webpage with navigation bar and multiple sections, styled using external task1.css file.
+Task 2: Simple product page includes , Product image  , Description  ,Price Buy , button , designed with  HTML and styled via external task2.css file.
+Task 3: Created login form page  using html & external task3.css file.
